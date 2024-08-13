@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**Kh4lIdEk/Kh4lIdEk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ELKOUSSAMI Khalid, an Embedded software Enginner.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- **Programming Languages:** ASEMBLY, C/C++, Embedded C, Java, JavaScript, Python, VHDL, SQL, R
+- **Frameworks:** React, Node.js
+- **Tools:** Git, MATLAB, AWS, Docker, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Currently Learning
+- Studying for my Engineering degree in Embedded Systems and Digital Services at INPT.
+- Working on projects along the way to apply what I’m learning.
+
+## 📫 How to Reach Me
+- [Email](mailto:koussamikhalid0@gmail.com)
+- [LinkedIn](www.linkedin.com/in/khalid-elkoussami-7182a3294)
