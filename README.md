@@ -1,16 +1,17 @@
-# <h1 align="center">Welcome to My Profile! 👋</h1>
-
-## <h3 align="center"> I'm ELKOUSSAMI Khalid, an Embedded software Enginner.</h3><br>
+<h1 align="center">Welcome to My Profile! 👋</h1>
+<h3 align="center">I'm Khalid ELKOUSSAMI — Embedded Systems Engineer, Firmware & FPGA/RTL</h3>
 
 ## 🚀 My Skills
-- **Programming Languages:** ASEMBLY, C/C++, Embedded C, Java, JavaScript, Python, VHDL, SQL, R
+- **Programming Languages:** C/C++, Embedded C, Assembly, VHDL/SystemVerilog, Python, Java, JavaScript, SQL, R
+- **Embedded & Hardware:** STM32, FPGA/ASIC, bare-metal, RTOS (FreeRTOS), Xilinx Vivado, Altera Quartus
 - **Frameworks:** React, Node.js
-- **Tools:** Git, MATLAB, AWS
+- **Tools:** Git, MATLAB, AWS, Linux
 
 ## 🌱 What I'm Currently Learning
-- Studying for my Engineering degree in Embedded Systems and Digital Services at @INPT.
-- Working on projects along the way to apply what I’m learning.
+- Pursuing my engineering degree in Embedded Systems and Microelectronics at École des Mines de Saint-Étienne (previously Embedded Systems and Digital Services at @INPT, Rabat).
+- Exploring the intersection of RTL/FPGA design and AI-assisted design automation.
+- Building projects along the way to apply what I'm learning.
 
 ## 📫 How to Reach Me
-- [Email](mailto:koussamikhalid0@gmail.com)
-- [LinkedIn](www.linkedin.com/in/khalid-elkoussami-7182a3294)
+- [Email](mailto:khalid.elkoussami@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/khalid-elkoussami-7182a3294)
